@@ -2,7 +2,7 @@
 This is a Simple C# Desktop Application which can be used to save contact details of family and friends. 
 You can develop this app by watching tutorials at https://www.youtube.com/watch?v=ApPWGEKFnU4&list=PLBLPjjQlnVXVLh8nQWR9M5ADH1iZ6cX5D
 
-# YouTube Channel: https://www.youtube.com/vijaythapa333
+# YouTube Channel: https://www.youtube.com/vijaythapa
 
 ## Tools and Technologies Used
 1. C# Programming Language
